@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+.login{
+    box-shadow: 10px 10px lightblue;
+    width:350px;
+    height:500px;
+    margin:auto;
+    margin-top:17vh;
+}
+
+.data{
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border-width:0.5px;
+}
+
+.header{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.stay{
+    padding-bottom: 20px;
+}
+
+.submit{
+    width:250px;
+    border-radius: 10px;
+    border-width: 0.2px;
+    background-color: rgb(255, 181, 45);
+    color:white;
+}
